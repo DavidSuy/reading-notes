@@ -1,5 +1,8 @@
+# Reading Notes
+
 ## Code 102 Reading Notes
-This website is about the reading note I have as I go through my coding journey with Code Fellows
 
 ## Code 201 Reading Notes
- 
+
+## Code 301 Reading Notes
+[Introduction to React and Components](code301/read01.md)
