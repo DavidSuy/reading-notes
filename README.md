@@ -15,3 +15,7 @@
 [React Forms, Ternary Operator](code301/read04.md)
 
 [React Docs - Thinking in React, Higher-Order Functions](code301/read05.md)
+
+[Node.js](code301/read06.md)
+
+[REST, API Keys](code301/read07.md)
