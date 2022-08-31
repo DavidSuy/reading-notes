@@ -19,3 +19,5 @@
 [Node.js](code301/read06.md)
 
 [REST, API Keys](code301/read07.md)
+
+[More CRUD](code301/read13.md)
