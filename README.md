@@ -6,8 +6,6 @@
 
 ## Code 301 Intermediate Software Development
 
-## Code 401 Advance Software Development
-
 [Introduction to React and Components](code301/read01.md)
 
 [State and props](code301/read02.md)
@@ -24,9 +22,15 @@
 
 [More CRUD](code301/read13.md)
 
-## Code 401 Reading Notes
+## Code 401 Advance Software Development
 
 [Node Ecosystem](code401/read01.md)
+
+[Bash Command Line](code401/commandLine.md)
+
+[Intro to SQL](code401/sql.md)
+
+[Typing Lessons](code401/typingLessons.md)
 
 ---
 
