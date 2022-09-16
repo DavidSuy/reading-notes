@@ -1,10 +1,12 @@
 # Reading Notes
 
-## Code 102 Reading Notes
+## Code 102 Intro to Software Development
 
-## Code 201 Reading Notes
+## Code 201 Foundations of Software Development
 
-## Code 301 Reading Notes
+## Code 301 Intermediate Software Development
+
+## Code 401 Advance Software Development
 
 [Introduction to React and Components](code301/read01.md)
 
@@ -21,3 +23,13 @@
 [REST, API Keys](code301/read07.md)
 
 [More CRUD](code301/read13.md)
+
+## Code 401 Reading Notes
+
+[Node Ecosystem](code401/read01.md)
+
+---
+
+This is an in person Coding course with Code Fellows[^1].
+
+[^1]: [Code Fellows](https://www.codefellows.org)
