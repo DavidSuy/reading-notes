@@ -11,3 +11,7 @@
 3. What is Node used for?
 
    Node mainly for installing and running various build tools. Bundle JavaScript files and dependencies into assets, run test, or automatic linting and style checking.
+
+## Reference
+
+[Introduction to Node.js](https://www.sitepoint.com/an-introduction-to-node-js/)
