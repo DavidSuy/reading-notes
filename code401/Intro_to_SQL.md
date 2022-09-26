@@ -1,5 +1,7 @@
 # Introduction to SQL
 
+SQL stands for Structured Query Language and simply put, it’s a search language for you to instruct a database about what information you’d like retrieved from it.
+
 ## Exercises
 
 ![exercise01](../img/into_sql/exercise01.png)
