@@ -32,6 +32,8 @@
 
 [Typing Lessons](code401/typingLessons.md)
 
+[Introduction to SQL](code401/Intro_to_SQL.md)
+
 ---
 
 This is an in person Coding course with Code Fellows[^1].
