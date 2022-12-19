@@ -38,6 +38,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 6. [Authentication](code401/authentication.md)
 
+7. [Bear Authorization](code401/bearer-authorization.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
