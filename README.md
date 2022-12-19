@@ -75,6 +75,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 27. [useState Hook](code401/usestate-hook.md)
 
+28. [component-lifecycle-hook](code401/component-lifecycle-hook.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
