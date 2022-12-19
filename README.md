@@ -1,5 +1,7 @@
 # Reading Notes
 
+Reading note from my assignments through out my course at Code Fellows
+
 ## Code 102 Intro to Software Development
 
 ## Code 201 Foundations of Software Development
@@ -25,6 +27,8 @@
 ## Code 401 Advance Software Development
 
 [Node Ecosystem](code401/read01.md)
+
+[Express, NPM, TDD, CI/CD](code401/express-npm-tdd-ci-cd.md)
 
 [Bash Command Line](code401/commandLine.md)
 
