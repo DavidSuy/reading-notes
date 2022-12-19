@@ -42,7 +42,7 @@ Reading note from my assignments through out my course at Code Fellows
 
 8. [Access Control ACL](code401/access-control-acl.md)
 
-9. NA
+9. na
 
 10. [Stacks and Queue](code401/stack-queue.md)
 
@@ -63,6 +63,15 @@ Reading note from my assignments through out my course at Code Fellows
 18. [AWS: API, Dynamo and Lambda](code401/aws-api-dynamo-lambda.md)
 
 19. [AWS: Events](code401/aws-events.md)
+
+20. na
+21. na
+22. na
+23. na
+24. na
+25. na
+
+26. [Component based ui](code401/component-based-ui.md)
 
 [Bash Command Line](code401/commandLine.md)
 
