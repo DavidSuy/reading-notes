@@ -77,6 +77,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 28. [component-lifecycle-hook](code401/component-lifecycle-hook.md)
 
+29. [Advanced state with reducers](code401/advanced-state-with-reducers.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
