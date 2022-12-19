@@ -79,6 +79,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 29. [Advanced state with reducers](code401/advanced-state-with-reducers.md)
 
+30. [Hash Tables](code401/hash-tables.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
