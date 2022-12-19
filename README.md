@@ -103,6 +103,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 41. [React Native](code401/react-native.md)
 
+42. [Ethics in Tech](code401/ethics-in-tech.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
