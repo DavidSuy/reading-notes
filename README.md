@@ -34,6 +34,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 4. [Data Modeling](code401/data-modeling.md)
 
+5. [Linked List](code401/linked-lists.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
