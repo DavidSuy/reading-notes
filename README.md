@@ -105,6 +105,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 42. [Ethics in Tech](code401/ethics-in-tech.md)
 
+43. [OSS Contributions](code401/oss-contributions.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
