@@ -97,6 +97,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 38. [Redux - Asynchronous Actions](code401/redux-asynchronous-actions.md)
 
+39. [Redux - Additional Topics](code401/redux-additional-topics.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
