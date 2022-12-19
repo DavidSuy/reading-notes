@@ -40,6 +40,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 7. [Bear Authorization](code401/bearer-authorization.md)
 
+8. [Access Control ACL](code401/access-control-acl.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
