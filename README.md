@@ -54,6 +54,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 14. [Event Driven Architecture](code401/event-driven-architecture.md)
 
+15. [Trees](code401/trees.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
