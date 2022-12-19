@@ -30,6 +30,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 [Express, NPM, TDD, CI/CD](code401/express-npm-tdd-ci-cd.md)
 
+[Express, REST, API](code401/express-rest-api.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
