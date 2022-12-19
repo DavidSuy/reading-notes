@@ -91,6 +91,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 35. [Graphs](code401/graphs.md)
 
+36. [Application State with Redux](code401/application-state-redux.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
