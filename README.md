@@ -56,6 +56,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 15. [Trees](code401/trees.md)
 
+16. [AWS Cloud Servers](code401/aws-cloud-servers.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
