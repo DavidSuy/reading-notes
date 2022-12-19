@@ -60,6 +60,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 17. [AWS: S3 and Lambda](code401/aws-s3-and-lambda.md)
 
+18. [AWS: API, Dynamo and Lambda](code401/aws-api-dynamo-lambda.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
