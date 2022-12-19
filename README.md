@@ -95,6 +95,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 37. [Redux - Combined Reducers](code401/redux-combined-reducers.md)
 
+38. [Redux - Asynchronous Actions](code401/redux-asynchronous-actions.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
