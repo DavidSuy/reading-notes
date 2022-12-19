@@ -83,6 +83,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 31. [Context API](code401/context-api.md)
 
+32. [Context API Behaviors](code401/context-api-behaviors.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
