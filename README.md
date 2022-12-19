@@ -58,6 +58,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 16. [AWS Cloud Servers](code401/aws-cloud-servers.md)
 
+17. [AWS: S3 and Lambda](code401/aws-s3-and-lambda.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
