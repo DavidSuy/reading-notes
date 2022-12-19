@@ -62,6 +62,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 18. [AWS: API, Dynamo and Lambda](code401/aws-api-dynamo-lambda.md)
 
+19. [AWS: Events](code401/aws-events.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
