@@ -93,6 +93,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 36. [Application State with Redux](code401/application-state-redux.md)
 
+37. [Redux - Combined Reducers](code401/redux-combined-reducers.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
