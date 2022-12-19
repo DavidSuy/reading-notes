@@ -50,6 +50,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 12. [Socket.io](code401/socket-io.md)
 
+13. [Message Queues](code401/message-queues.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
