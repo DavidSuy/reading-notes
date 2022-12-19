@@ -26,11 +26,13 @@ Reading note from my assignments through out my course at Code Fellows
 
 ## Code 401 Advance Software Development
 
-[Node Ecosystem](code401/read01.md)
+1. [Node Ecosystem](code401/read01.md)
 
-[Express, NPM, TDD, CI/CD](code401/express-npm-tdd-ci-cd.md)
+2. [Express, NPM, TDD, CI/CD](code401/express-npm-tdd-ci-cd.md)
 
-[Express, REST, API](code401/express-rest-api.md)
+3. [Express, REST, API](code401/express-rest-api.md)
+
+4. [Data Modeling](code401/data-modeling.md)
 
 [Bash Command Line](code401/commandLine.md)
 
