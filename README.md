@@ -85,6 +85,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 32. [Context API Behaviors](code401/context-api-behaviors.md)
 
+33. [Login and Auth](code401/login-and-auth.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
