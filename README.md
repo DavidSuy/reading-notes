@@ -52,6 +52,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 13. [Message Queues](code401/message-queues.md)
 
+14. [Event Driven Architecture](code401/event-driven-architecture.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
