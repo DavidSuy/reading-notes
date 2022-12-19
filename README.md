@@ -48,6 +48,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 11. [Event Driven Applications](code401/event-driven-applications.md)
 
+12. [Socket.io](code401/socket-io.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
