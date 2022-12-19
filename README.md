@@ -42,6 +42,8 @@ Reading note from my assignments through out my course at Code Fellows
 
 8. [Access Control ACL](code401/access-control-acl.md)
 
+9. [Stacks and Queue](code401/stack-queue.md)
+
 [Bash Command Line](code401/commandLine.md)
 
 [Intro to SQL](code401/sql.md)
